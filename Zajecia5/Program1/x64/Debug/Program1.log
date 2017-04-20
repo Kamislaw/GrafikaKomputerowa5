@@ -1,0 +1,6 @@
+﻿  Vectors.cpp
+  Source.cpp
+c:\users\kamislaw\documents\visual studio 2015\projects\zajecia5\program1\source.cpp(99): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Program1.vcxproj -> C:\Users\Kamislaw\Documents\Visual Studio 2015\Projects\Zajecia5\x64\Debug\Program1.exe
+  Program1.vcxproj -> C:\Users\Kamislaw\Documents\Visual Studio 2015\Projects\Zajecia5\x64\Debug\Program1.pdb (Partial PDB)
